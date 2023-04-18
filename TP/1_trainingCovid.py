@@ -48,7 +48,7 @@ client = mlflow.client.MlflowClient()
 # mlflow.set_tracking_uri('sqlite:///mlruns.db')
 # conectarse a la base de datos de postgres con mlflow postgresql+psycopg2://[user[:password]@][netloc][:port][/dbname][?param1=value1&...]
 user= 'postgres'
-password= 'gy.ku9*T61?{x?(0'
+password= 'contrasenaML2'
 netloc='34.176.121.118'
 port='5432'
 dbname='postgres'
